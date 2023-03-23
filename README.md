@@ -1,6 +1,6 @@
 # proj-hypervisor-in-zephyr
 ## 题目
-基于Zephyr RTOS实现type-2型虚拟化管理平台。
+基于Zephyr RTOS开发Hypervisor启动Linux内核和Zephyr内核。
 
 ## 项目描述：
 基于实时操作系统Zephyr的虚拟机 Zephyr-based Virtual Machine（ZVM），是一种参考Kernel-based Virtual Machine（KVM）实现的虚拟机，其面向高性能嵌入式计算环境，提供嵌入式平台上的资源隔离和共享服务。
@@ -12,7 +12,7 @@ Zephyr系统整体结构和Linux类型，可以参考KVM思路，实现基于Zep
 ## 参考资料：
 ##### (1) https://docs.zephyrproject.org/latest/ 
 ##### (2) kvm in linux
-##### (3) https://gitee.com/openeuler/zvm（arm64平台基础功能）
+##### (3) https://gitee.com/openeuler/zvm
 
 ## 所属赛道
 2023全国大学生操作系统比赛的“OS功能挑战”赛道
