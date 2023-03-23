@@ -8,10 +8,9 @@
 本项目以Zephyr实时操作系统为基础，使用C（C++）在Zephyr RTOS中实现一个面向嵌入式平台的虚拟机管理器。Zephyr RTOS是一个小型的实时操作系统，用于连接、资源受限和嵌入式设备，支持多种架构，发布于Apache License 2.0下。Zephyr包括内核、所有组件和库、设备驱动程序、协议栈、文件系统和固件更新，以开发连接、资源受限和嵌入式设备。Zephyr RTOS易于部署、安全、连接和管理。它具有不断增长的软件库集，可用于各种应用和行业领域，如工业物联网、可穿戴设备、机器学习等。Zephyr系统整体系统结构和Linux类型，可以参考KVM思路，实现基于Zephyr RTOS的虚拟化管理平台有助于更好的理解KVM等复杂虚拟化系统的实现原理。
 
 ## 参考资料：
-(1) https://docs.zephyrproject.org/latest/
-(2) kvm in linux
-(3) xvisor
-(4) https://gitee.com/openeuler/zvm（arm64平台基础功能）
+##### (1) https://docs.zephyrproject.org/latest/ 
+##### (2) kvm in linux
+##### (3) https://gitee.com/openeuler/zvm（arm64平台基础功能）
 
 ## 所属赛道
 2023全国大学生操作系统比赛的“OS功能挑战”赛道
