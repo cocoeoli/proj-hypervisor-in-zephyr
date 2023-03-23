@@ -21,7 +21,7 @@
 请遵循“2023国大学生操作系统比赛”的章程和技术方案要求
 
 ## 项目导师
-谢国琪 email xgqman@hnu.edu.cn
+谢国琪 xgqman@hnu.edu.cn
 
 ## 难度
 中等 ~ 高 等
