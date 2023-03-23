@@ -26,8 +26,11 @@ https://gitee.com/openeuler/zvm（arm64平台基础功能）
 
 特征：
 使用 C/C++ 语言实现
+
 至少支持一种硬件平台（比如x86, arm, riscv等）
+
 支持 QEMU模拟机器上运行
+
 支持在物理机器上运行
 
 为了兼容Zephyr社区开源协议，协议限制：
