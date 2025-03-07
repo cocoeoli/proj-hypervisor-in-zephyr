@@ -32,8 +32,12 @@ ZVM当前主要支持ARM架构，选手可选择一种新架构（x86或RISC-V�
 - 适配ZVM核心框架至目标架构；
 
 ## 参考资料
-##### (1) Zephyr官方文档：https://docs.zephyrproject.org/latest/
-##### (2) ZVM项目Gitee地址：https://gitee.com/openeuler/zvm
+##### (1) ZVM项目Gitee地址：https://gitee.com/openeuler/zvm
+##### (2) 云计算内存管理技术: Survey of memory management techniques for hpc and cloud computing
+##### (3) 实时操作系统内存管理算法: An analysis and review on memory management algorithms for real time operating system
+##### (4) 实时多核 VCPU 调度框架: Maracas: A real-time multicore vcpu scheduling framework
+##### (5) ACRN hypervisor(x86): https://github.com/projectacrn/acrn-hypervisor
+##### (6) bao-hypervisor(RISC-V,Armv8-R): https://github.com/bao-project/bao-hypervisor
 
 ## 所属赛道
 2025全国大学生操作系统比赛的“OS功能挑战”赛道
